@@ -2,7 +2,13 @@ body {
   margin: 0;
   padding: 10px;
   font-family: Arial, sans-serif;
-  min-width: 400px;
+  /* min-width: 400px; */
+  max-width: 300px;
+}
+
+label {
+  color: #5f9341;
+  font-weight: 900;
 }
 
 input {
